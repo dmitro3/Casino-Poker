@@ -98,3 +98,6 @@ npm run build
 ```bash
 NODE_ENV=production node server.js
 ```
+
+![image](https://github.com/saqib772/Casino-Poker/assets/121972215/dd8f7747-a6fd-4e84-afc5-8d2428a8b158)
+![image](https://github.com/saqib772/Casino-Poker/assets/121972215/74ea4f58-1eb5-416c-8c8e-20f352468b8d)
